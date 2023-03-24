@@ -10,6 +10,18 @@ body {
 }
 
 
+
+/* margin: 0 auto; for centering the div 
+overflow: scroll; avoid for overflow*/
+
+#scroll_bar {
+    
+    margin: 0 auto;
+    height: 200px;
+
+    overflow: scroll;
+}
+
 article {
     text-align: left;
     max-width: 150ch;
@@ -46,6 +58,9 @@ a {
     text-decoration: none;
     color: #CC7F3B;
 }
+
+
+
 
 a:hover {
     color: rgb(66, 194, 151);

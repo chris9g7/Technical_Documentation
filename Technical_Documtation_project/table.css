@@ -1,0 +1,54 @@
+body {
+    background-image: url(nat.jpg);
+    font-family: monospace;
+    text-align: center;
+    padding: 0px;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+
+}
+
+
+
+
+
+#content {
+    color: #fff;
+}
+
+
+
+
+
+a:hover {
+    color: rgb(66, 194, 151);
+}
+
+
+table,
+th,
+td {
+
+    width: 100%;
+    border: 1.9px solid;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 1em;
+    padding: 5px;
+
+
+}
+
+td:hover {
+    background-color: #b3a181;
+}
+
+#white {
+    color: #fff;
+}
+
+
+tr:nth-child(odd) {
+
+    background-color: #F5F5F5;
+}
